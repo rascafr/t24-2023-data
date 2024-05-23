@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "name": "T24 ILE DE RÉ 2023",
+    "eventDates": [
+      "2023-03-06",
+      "2023-04-06"
+    ],
+    "exported": "2023-09-06 20:52:00",
+    "teamName": "COUCOU PETITE PERRUCHE",
+    "category": "EQ6-H",
+    "index": 76,
+    "totalPoints": 898
+  },
+  "teamMembers": [
+    {
+      "id": "607-1",
+      "fullName": "Edgar MOUSSIN"
+    },
+    {
+      "id": "607-2",
+      "fullName": "Paul TRIOULEYRE ROBERJOT"
+    },
+    {
+      "id": "607-3",
+      "fullName": "Guillaume ABARNOU"
+    },
+    {
+      "id": "607-4",
+      "fullName": "Pierre CASTRES SAINT MARTIN"
+    },
+    {
+      "id": "607-5",
+      "fullName": "Gurvan LE CROM"
+    },
+    {
+      "id": "607-6",
+      "fullName": "Julien DECHARD"
+    }
+  ],
+  "disciplines": [
+    {
+      "name": "Natation",
+      "distance": 1000,
+      "points": 15,
+      "laps": [
+        {
+          "index": 1,
+          "member": "607-2",
+          "durationRaw": "00:26:42",
+          "duration": 0.445,
+          "elapsedTimeRaw": "00:26:42",
+          "elapsedTime": 0.445,
+          "paceRaw": "2'40\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.625
+        },
+        {
+          "index": 2,
+          "member": "607-6",
+          "durationRaw": "00:27:06",
+          "duration": 0.45166666666666666,
+          "elapsedTimeRaw": "00:53:48",
+          "elapsedTime": 0.8966666666666666,
+          "paceRaw": "2'42\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.6172839506172839
+        },
+        {
+          "index": 3,
+          "member": "607-5",
+          "durationRaw": "00:20:48",
+          "duration": 0.3466666666666666,
+          "elapsedTimeRaw": "01:14:36",
+          "elapsedTime": 1.2433333333333334,
+          "paceRaw": "2'4\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.8064516129032258
+        },
+        {
+          "index": 4,
+          "member": "607-3",
+          "durationRaw": "00:21:04",
+          "duration": 0.3511111111111111,
+          "elapsedTimeRaw": "01:35:40",
+          "elapsedTime": 1.5944444444444446,
+          "paceRaw": "2'6\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.7936507936507937
+        },
+        {
+          "index": 5,
+          "member": "607-4",
+          "durationRaw": "00:20:47",
+          "duration": 0.34638888888888886,
+          "elapsedTimeRaw": "01:56:27",
+          "elapsedTime": 1.9408333333333334,
+          "paceRaw": "2'4\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.8064516129032258
+        },
+        {
+          "index": 6,
+          "member": "607-1",
+          "durationRaw": "00:30:42",
+          "duration": 0.5116666666666667,
+          "elapsedTimeRaw": "02:27:09",
+          "elapsedTime": 2.4525,
+          "paceRaw": "3'4\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.5434782608695652
+        },
+        {
+          "index": 7,
+          "member": "607-2",
+          "durationRaw": "00:28:23",
+          "duration": 0.47305555555555556,
+          "elapsedTimeRaw": "02:55:32",
+          "elapsedTime": 2.9255555555555555,
+          "paceRaw": "2'50\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.588235294117647
+        },
+        {
+          "index": 8,
+          "member": "607-3",
+          "durationRaw": "00:25:12",
+          "duration": 0.42000000000000004,
+          "elapsedTimeRaw": "03:20:44",
+          "elapsedTime": 3.345555555555556,
+          "paceRaw": "2'31\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.6622516556291391
+        },
+        {
+          "index": 9,
+          "member": "607-4",
+          "durationRaw": "00:24:18",
+          "duration": 0.405,
+          "elapsedTimeRaw": "03:45:02",
+          "elapsedTime": 3.7505555555555556,
+          "paceRaw": "2'25\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.6896551724137931
+        },
+        {
+          "index": 10,
+          "member": "607-5",
+          "durationRaw": "00:30:09",
+          "duration": 0.5025,
+          "elapsedTimeRaw": "04:15:11",
+          "elapsedTime": 4.253055555555555,
+          "paceRaw": "3'0\"",
+          "paceUnit": "100m",
+          "speed_mps": 0.5555555555555556
+        }
+      ]
+    },
+    {
+      "name": "Vélo",
+      "distance": 23000,
+      "points": 23,
+      "laps": [
+        {
+          "index": 1,
+          "member": "607-6",
+          "durationRaw": "01:05:16",
+          "duration": 1.0877777777777777,
+          "elapsedTimeRaw": "01:05:16",
+          "elapsedTime": 1.0877777777777777,
+          "paceRaw": "21.14",
+          "paceUnit": "km/h",
+          "speed_mps": 5.872222222222223
+        },
+        {
+          "index": 2,
+          "member": "607-1",
+          "durationRaw": "00:41:29",
+          "duration": 0.6913888888888889,
+          "elapsedTimeRaw": "01:46:45",
+          "elapsedTime": 1.7791666666666666,
+          "paceRaw": "33.27",
+          "paceUnit": "km/h",
+          "speed_mps": 9.241666666666667
+        },
+        {
+          "index": 3,
+          "member": "607-2",
+          "durationRaw": "00:42:44",
+          "duration": 0.7122222222222222,
+          "elapsedTimeRaw": "02:29:29",
+          "elapsedTime": 2.491388888888889,
+          "paceRaw": "32.29",
+          "paceUnit": "km/h",
+          "speed_mps": 8.969444444444443
+        },
+        {
+          "index": 4,
+          "member": "607-3",
+          "durationRaw": "00:40:44",
+          "duration": 0.6788888888888889,
+          "elapsedTimeRaw": "03:10:13",
+          "elapsedTime": 3.1702777777777778,
+          "paceRaw": "33.88",
+          "paceUnit": "km/h",
+          "speed_mps": 9.411111111111111
+        },
+        {
+          "index": 5,
+          "member": "607-4",
+          "durationRaw": "00:40:20",
+          "duration": 0.6722222222222222,
+          "elapsedTimeRaw": "03:50:33",
+          "elapsedTime": 3.8425000000000002,
+          "paceRaw": "34.21",
+          "paceUnit": "km/h",
+          "speed_mps": 9.502777777777778
+        }
+      ]
+    },
+    {
+      "name": "Vélo 2",
+      "distance": 16000,
+      "points": 16,
+      "laps": [
+        {
+          "index": 1,
+          "member": "607-5",
+          "durationRaw": "01:11:26",
+          "duration": 1.1905555555555556,
+          "elapsedTimeRaw": "01:11:26",
+          "elapsedTime": 1.1905555555555556,
+          "paceRaw": "13.44",
+          "paceUnit": "km/h",
+          "speed_mps": 3.733333333333333
+        },
+        {
+          "index": 2,
+          "member": "607-5",
+          "durationRaw": "00:30:35",
+          "duration": 0.5097222222222222,
+          "elapsedTimeRaw": "01:42:01",
+          "elapsedTime": 1.7002777777777778,
+          "paceRaw": "31.39",
+          "paceUnit": "km/h",
+          "speed_mps": 8.719444444444445
+        },
+        {
+          "index": 3,
+          "member": "607-6",
+          "durationRaw": "00:31:42",
+          "duration": 0.5283333333333334,
+          "elapsedTimeRaw": "02:13:43",
+          "elapsedTime": 2.2286111111111113,
+          "paceRaw": "30.28",
+          "paceUnit": "km/h",
+          "speed_mps": 8.411111111111111
+        },
+        {
+          "index": 4,
+          "member": "607-6",
+          "durationRaw": "00:33:02",
+          "duration": 0.5505555555555556,
+          "elapsedTimeRaw": "02:46:45",
+          "elapsedTime": 2.779166666666667,
+          "paceRaw": "29.06",
+          "paceUnit": "km/h",
+          "speed_mps": 8.072222222222221
+        },
+        {
+          "index": 5,
+          "member": "607-1",
+          "durationRaw": "00:31:02",
+          "duration": 0.5172222222222222,
+          "elapsedTimeRaw": "03:17:47",
+          "elapsedTime": 3.2963888888888886,
+          "paceRaw": "30.93",
+          "paceUnit": "km/h",
+          "speed_mps": 8.591666666666667
+        },
+        {
+          "index": 6,
+          "member": "607-1",
+          "durationRaw": "00:30:30",
+          "duration": 0.5083333333333333,
+          "elapsedTimeRaw": "03:48:17",
+          "elapsedTime": 3.804722222222222,
+          "paceRaw": "31.48",
+          "paceUnit": "km/h",
+          "speed_mps": 8.744444444444444
+        },
+        {
+          "index": 7,
+          "member": "607-2",
+          "durationRaw": "00:32:15",
+          "duration": 0.5375,
+          "elapsedTimeRaw": "04:20:32",
+          "elapsedTime": 4.3422222222222215,
+          "paceRaw": "29.77",
+          "paceUnit": "km/h",
+          "speed_mps": 8.269444444444444
+        },
+        {
+          "index": 8,
+          "member": "607-2",
+          "durationRaw": "00:31:45",
+          "duration": 0.5291666666666667,
+          "elapsedTimeRaw": "04:52:17",
+          "elapsedTime": 4.871388888888889,
+          "paceRaw": "30.24",
+          "paceUnit": "km/h",
+          "speed_mps": 8.399999999999999
+        },
+        {
+          "index": 9,
+          "member": "607-3",
+          "durationRaw": "00:31:01",
+          "duration": 0.5169444444444445,
+          "elapsedTimeRaw": "05:23:18",
+          "elapsedTime": 5.388333333333334,
+          "paceRaw": "30.95",
+          "paceUnit": "km/h",
+          "speed_mps": 8.597222222222221
+        },
+        {
+          "index": 10,
+          "member": "607-3",
+          "durationRaw": "00:31:55",
+          "duration": 0.5319444444444444,
+          "elapsedTimeRaw": "05:55:13",
+          "elapsedTime": 5.920277777777778,
+          "paceRaw": "30.08",
+          "paceUnit": "km/h",
+          "speed_mps": 8.355555555555554
+        },
+        {
+          "index": 11,
+          "member": "607-4",
+          "durationRaw": "00:29:34",
+          "duration": 0.49277777777777776,
+          "elapsedTimeRaw": "06:24:47",
+          "elapsedTime": 6.413055555555556,
+          "paceRaw": "32.47",
+          "paceUnit": "km/h",
+          "speed_mps": 9.019444444444444
+        },
+        {
+          "index": 12,
+          "member": "607-4",
+          "durationRaw": "00:29:12",
+          "duration": 0.4866666666666667,
+          "elapsedTimeRaw": "06:53:59",
+          "elapsedTime": 6.899722222222222,
+          "paceRaw": "32.88",
+          "paceUnit": "km/h",
+          "speed_mps": 9.133333333333335
+        },
+        {
+          "index": 13,
+          "member": "607-5",
+          "durationRaw": "00:31:40",
+          "duration": 0.5277777777777778,
+          "elapsedTimeRaw": "07:25:39",
+          "elapsedTime": 7.4275,
+          "paceRaw": "30.32",
+          "paceUnit": "km/h",
+          "speed_mps": 8.422222222222222
+        },
+        {
+          "index": 14,
+          "member": "607-5",
+          "durationRaw": "00:31:14",
+          "duration": 0.5205555555555557,
+          "elapsedTimeRaw": "07:56:53",
+          "elapsedTime": 7.948055555555555,
+          "paceRaw": "30.74",
+          "paceUnit": "km/h",
+          "speed_mps": 8.538888888888888
+        },
+        {
+          "index": 15,
+          "member": "607-1",
+          "durationRaw": "00:30:29",
+          "duration": 0.5080555555555556,
+          "elapsedTimeRaw": "08:27:22",
+          "elapsedTime": 8.45611111111111,
+          "paceRaw": "31.49",
+          "paceUnit": "km/h",
+          "speed_mps": 8.747222222222222
+        },
+        {
+          "index": 16,
+          "member": "607-1",
+          "durationRaw": "00:31:24",
+          "duration": 0.5233333333333334,
+          "elapsedTimeRaw": "08:58:46",
+          "elapsedTime": 8.979444444444445,
+          "paceRaw": "30.57",
+          "paceUnit": "km/h",
+          "speed_mps": 8.491666666666667
+        }
+      ]
+    },
+    {
+      "name": "Course",
+      "distance": 7200,
+      "points": 29,
+      "laps": [
+        {
+          "index": 1,
+          "member": "607-6",
+          "durationRaw": "00:45:37",
+          "duration": 0.7602777777777778,
+          "elapsedTimeRaw": "00:45:37",
+          "elapsedTime": 0.7602777777777778,
+          "paceRaw": "6.34",
+          "paceUnit": "min/km",
+          "speed_mps": 2.6288117770767614
+        },
+        {
+          "index": 2,
+          "member": "607-2",
+          "durationRaw": "00:38:14",
+          "duration": 0.6372222222222222,
+          "elapsedTimeRaw": "01:23:51",
+          "elapsedTime": 1.3975,
+          "paceRaw": "5.31",
+          "paceUnit": "min/km",
+          "speed_mps": 3.1387319522912747
+        },
+        {
+          "index": 3,
+          "member": "607-3",
+          "durationRaw": "00:32:51",
+          "duration": 0.5475,
+          "elapsedTimeRaw": "01:56:42",
+          "elapsedTime": 1.945,
+          "paceRaw": "4.56",
+          "paceUnit": "min/km",
+          "speed_mps": 3.6549707602339185
+        },
+        {
+          "index": 4,
+          "member": "607-4",
+          "durationRaw": "00:31:55",
+          "duration": 0.5319444444444444,
+          "elapsedTimeRaw": "02:28:37",
+          "elapsedTime": 2.4769444444444444,
+          "paceRaw": "4.43",
+          "paceUnit": "min/km",
+          "speed_mps": 3.7622272385252074
+        },
+        {
+          "index": 5,
+          "member": "607-5",
+          "durationRaw": "00:34:42",
+          "duration": 0.5783333333333334,
+          "elapsedTimeRaw": "03:03:19",
+          "elapsedTime": 3.0552777777777775,
+          "paceRaw": "4.82",
+          "paceUnit": "min/km",
+          "speed_mps": 3.4578146611341634
+        },
+        {
+          "index": 6,
+          "member": "607-1",
+          "durationRaw": "00:36:49",
+          "duration": 0.6136111111111111,
+          "elapsedTimeRaw": "03:40:08",
+          "elapsedTime": 3.6688888888888886,
+          "paceRaw": "5.11",
+          "paceUnit": "min/km",
+          "speed_mps": 3.2615786040443573
+        },
+        {
+          "index": 7,
+          "member": "607-6",
+          "durationRaw": "00:42:35",
+          "duration": 0.7097222222222221,
+          "elapsedTimeRaw": "04:22:43",
+          "elapsedTime": 4.378611111111111,
+          "paceRaw": "5.91",
+          "paceUnit": "min/km",
+          "speed_mps": 2.820078962210942
+        },
+        {
+          "index": 8,
+          "member": "607-2",
+          "durationRaw": "00:41:57",
+          "duration": 0.6991666666666667,
+          "elapsedTimeRaw": "05:04:40",
+          "elapsedTime": 5.0777777777777775,
+          "paceRaw": "5.83",
+          "paceUnit": "min/km",
+          "speed_mps": 2.858776443682104
+        },
+        {
+          "index": 9,
+          "member": "607-3",
+          "durationRaw": "00:33:46",
+          "duration": 0.5627777777777778,
+          "elapsedTimeRaw": "05:38:26",
+          "elapsedTime": 5.640555555555555,
+          "paceRaw": "4.69",
+          "paceUnit": "min/km",
+          "speed_mps": 3.5536602700781805
+        },
+        {
+          "index": 10,
+          "member": "607-4",
+          "durationRaw": "00:34:56",
+          "duration": 0.5822222222222222,
+          "elapsedTimeRaw": "06:13:22",
+          "elapsedTime": 6.222777777777778,
+          "paceRaw": "4.85",
+          "paceUnit": "min/km",
+          "speed_mps": 3.4364261168384886
+        },
+        {
+          "index": 11,
+          "member": "607-5",
+          "durationRaw": "00:34:59",
+          "duration": 0.5830555555555555,
+          "elapsedTimeRaw": "06:48:21",
+          "elapsedTime": 6.805833333333333,
+          "paceRaw": "4.86",
+          "paceUnit": "min/km",
+          "speed_mps": 3.4293552812071333
+        },
+        {
+          "index": 12,
+          "member": "607-1",
+          "durationRaw": "00:40:22",
+          "duration": 0.6727777777777777,
+          "elapsedTimeRaw": "07:28:43",
+          "elapsedTime": 7.478611111111111,
+          "paceRaw": "5.61",
+          "paceUnit": "min/km",
+          "speed_mps": 2.9708853238265003
+        },
+        {
+          "index": 13,
+          "member": "607-3",
+          "durationRaw": "00:34:29",
+          "duration": 0.5747222222222222,
+          "elapsedTimeRaw": "08:03:12",
+          "elapsedTime": 8.053333333333335,
+          "paceRaw": "4.79",
+          "paceUnit": "min/km",
+          "speed_mps": 3.479471120389701
+        }
+      ]
+    }
+  ]
+}

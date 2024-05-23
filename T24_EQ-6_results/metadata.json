@@ -1,0 +1,310 @@
+{
+  "exportedFiles": [
+    {
+      "teamName": "LOS 6 GARSILLOS",
+      "path": "teams_results/LOS 6 GARSILLOS.json"
+    },
+    {
+      "teamName": "B24OBA",
+      "path": "teams_results/B24OBA.json"
+    },
+    {
+      "teamName": "LES RATONS LAVEURS",
+      "path": "teams_results/LES RATONS LAVEURS.json"
+    },
+    {
+      "teamName": "VERS L INFINI ET L AU-DELA",
+      "path": "teams_results/VERS L INFINI ET L AU-DELA.json"
+    },
+    {
+      "teamName": "LES CHARGEURS",
+      "path": "teams_results/LES CHARGEURS.json"
+    },
+    {
+      "teamName": "LES REVEN6NTS",
+      "path": "teams_results/LES REVEN6NTS.json"
+    },
+    {
+      "teamName": "AURORE",
+      "path": "teams_results/AURORE.json"
+    },
+    {
+      "teamName": "ALAIN PHILIPPE",
+      "path": "teams_results/ALAIN PHILIPPE.json"
+    },
+    {
+      "teamName": "ETYAPEJULOGUS DE SAINTES TRI",
+      "path": "teams_results/ETYAPEJULOGUS DE SAINTES TRI.json"
+    },
+    {
+      "teamName": "LES MARSOUINS",
+      "path": "teams_results/LES MARSOUINS.json"
+    },
+    {
+      "teamName": "BATH TRIATHLON TEAM",
+      "path": "teams_results/BATH TRIATHLON TEAM.json"
+    },
+    {
+      "teamName": "LES BERLIOUX",
+      "path": "teams_results/LES BERLIOUX.json"
+    },
+    {
+      "teamName": "LES GARS LACTIQUES",
+      "path": "teams_results/LES GARS LACTIQUES.json"
+    },
+    {
+      "teamName": "LES TORPILLES",
+      "path": "teams_results/LES TORPILLES.json"
+    },
+    {
+      "teamName": "LES MOUETTES",
+      "path": "teams_results/LES MOUETTES.json"
+    },
+    {
+      "teamName": "BEACH BOYS DE BLOIS",
+      "path": "teams_results/BEACH BOYS DE BLOIS.json"
+    },
+    {
+      "teamName": "LES VITAL ROULENT (ET COURENT, ET NAGENT)",
+      "path": "teams_results/LES VITAL ROULENT (ET COURENT, ET NAGENT).json"
+    },
+    {
+      "teamName": "LES SI-X BENEZES' MENS",
+      "path": "teams_results/LES SI-X BENEZES' MENS.json"
+    },
+    {
+      "teamName": "LES BERLINGOTS",
+      "path": "teams_results/LES BERLINGOTS.json"
+    },
+    {
+      "teamName": "VREMENT RAPIDES",
+      "path": "teams_results/VREMENT RAPIDES.json"
+    },
+    {
+      "teamName": "STADE FRANCAIS TRIATHLON 2",
+      "path": "teams_results/STADE FRANCAIS TRIATHLON 2.json"
+    },
+    {
+      "teamName": "LES PROS DE LA TRANSITION",
+      "path": "teams_results/LES PROS DE LA TRANSITION.json"
+    },
+    {
+      "teamName": "PISTACHE",
+      "path": "teams_results/PISTACHE.json"
+    },
+    {
+      "teamName": "TRIATHLOOOOONG SA MERE",
+      "path": "teams_results/TRIATHLOOOOONG SA MERE.json"
+    },
+    {
+      "teamName": "LES PASSY PREPARES",
+      "path": "teams_results/LES PASSY PREPARES.json"
+    },
+    {
+      "teamName": "COUCOU PETITE PERRUCHE",
+      "path": "teams_results/COUCOU PETITE PERRUCHE.json"
+    },
+    {
+      "teamName": "LES MEWSQUETAIRES 1",
+      "path": "teams_results/LES MEWSQUETAIRES 1.json"
+    },
+    {
+      "teamName": "LES CRUAL CAROTTES",
+      "path": "teams_results/LES CRUAL CAROTTES.json"
+    },
+    {
+      "teamName": "MEUTT",
+      "path": "teams_results/MEUTT.json"
+    },
+    {
+      "teamName": "LISIANE",
+      "path": "teams_results/LISIANE.json"
+    },
+    {
+      "teamName": "LA BRIGADE DES KIKIKIFEURS",
+      "path": "teams_results/LA BRIGADE DES KIKIKIFEURS.json"
+    },
+    {
+      "teamName": "TRITONS ZEN",
+      "path": "teams_results/TRITONS ZEN.json"
+    },
+    {
+      "teamName": "LE MASSIV FAIT SON TRI",
+      "path": "teams_results/LE MASSIV FAIT SON TRI.json"
+    },
+    {
+      "teamName": "6TERNES",
+      "path": "teams_results/6TERNES.json"
+    },
+    {
+      "teamName": "BELGIAN TOUCH",
+      "path": "teams_results/BELGIAN TOUCH.json"
+    },
+    {
+      "teamName": "GRIFFONOURS",
+      "path": "teams_results/GRIFFONOURS.json"
+    },
+    {
+      "teamName": "LES LENTS DANS TON DOS",
+      "path": "teams_results/LES LENTS DANS TON DOS.json"
+    },
+    {
+      "teamName": "LES BALEINEAUX",
+      "path": "teams_results/LES BALEINEAUX.json"
+    },
+    {
+      "teamName": "LES PINEURS FLOWTEURS",
+      "path": "teams_results/LES PINEURS FLOWTEURS.json"
+    },
+    {
+      "teamName": "B24",
+      "path": "teams_results/B24.json"
+    },
+    {
+      "teamName": "T LA OU T24 ?",
+      "path": "teams_results/T LA OU T24 ?.json"
+    },
+    {
+      "teamName": "LES SAUCISSES BRETONNES",
+      "path": "teams_results/LES SAUCISSES BRETONNES.json"
+    },
+    {
+      "teamName": "LES MEWSQUETAIRES 2",
+      "path": "teams_results/LES MEWSQUETAIRES 2.json"
+    },
+    {
+      "teamName": "LES BISONS CONTRE-ATTAQUENT",
+      "path": "teams_results/LES BISONS CONTRE-ATTAQUENT.json"
+    },
+    {
+      "teamName": "BRIE LC",
+      "path": "teams_results/BRIE LC.json"
+    },
+    {
+      "teamName": "TRIATHL'HEK",
+      "path": "teams_results/TRIATHL'HEK.json"
+    },
+    {
+      "teamName": "GIRLY TRI TEAM",
+      "path": "teams_results/GIRLY TRI TEAM.json"
+    },
+    {
+      "teamName": "LES REPTILES",
+      "path": "teams_results/LES REPTILES.json"
+    },
+    {
+      "teamName": "BENOIT PERD",
+      "path": "teams_results/BENOIT PERD.json"
+    },
+    {
+      "teamName": "GAZEL'XPRESS",
+      "path": "teams_results/GAZEL'XPRESS.json"
+    },
+    {
+      "teamName": "CENTRE DE SECURITE ET D'INCENDIE DES PORTES 2",
+      "path": "teams_results/CENTRE DE SECURITE ET D'INCENDIE DES PORTES 2.json"
+    },
+    {
+      "teamName": "LES FRITES NORMADES",
+      "path": "teams_results/LES FRITES NORMADES.json"
+    },
+    {
+      "teamName": "LUCHARE",
+      "path": "teams_results/LUCHARE.json"
+    },
+    {
+      "teamName": "TEAM DE OUF",
+      "path": "teams_results/TEAM DE OUF.json"
+    },
+    {
+      "teamName": "POLLOS HERMANOS",
+      "path": "teams_results/POLLOS HERMANOS.json"
+    },
+    {
+      "teamName": "CANAS SOCIAL CLUB",
+      "path": "teams_results/CANAS SOCIAL CLUB.json"
+    },
+    {
+      "teamName": "LES AFFAMES",
+      "path": "teams_results/LES AFFAMES.json"
+    },
+    {
+      "teamName": "SIX ON THE BEACH",
+      "path": "teams_results/SIX ON THE BEACH.json"
+    },
+    {
+      "teamName": "RESCAPEES",
+      "path": "teams_results/RESCAPEES.json"
+    },
+    {
+      "teamName": "CENTRE DE SECURITE ET D'INCENDIE DES PORTES 1",
+      "path": "teams_results/CENTRE DE SECURITE ET D'INCENDIE DES PORTES 1.json"
+    },
+    {
+      "teamName": "FAST AND FURIOUS",
+      "path": "teams_results/FAST AND FURIOUS.json"
+    },
+    {
+      "teamName": "WARTSILA",
+      "path": "teams_results/WARTSILA.json"
+    },
+    {
+      "teamName": "VIKINGS",
+      "path": "teams_results/VIKINGS.json"
+    },
+    {
+      "teamName": "LES PTITS MOLLETS",
+      "path": "teams_results/LES PTITS MOLLETS.json"
+    },
+    {
+      "teamName": "RAMNESS 1",
+      "path": "teams_results/RAMNESS 1.json"
+    },
+    {
+      "teamName": "GOTTENGREEN 1",
+      "path": "teams_results/GOTTENGREEN 1.json"
+    },
+    {
+      "teamName": "TEAM BATH",
+      "path": "teams_results/TEAM BATH.json"
+    },
+    {
+      "teamName": "LHERMITES",
+      "path": "teams_results/LHERMITES.json"
+    },
+    {
+      "teamName": "BERNARD",
+      "path": "teams_results/BERNARD.json"
+    },
+    {
+      "teamName": "GOTTENGREEN 2",
+      "path": "teams_results/GOTTENGREEN 2.json"
+    },
+    {
+      "teamName": "LES MOUSSETTES",
+      "path": "teams_results/LES MOUSSETTES.json"
+    },
+    {
+      "teamName": "RAMNESS 2",
+      "path": "teams_results/RAMNESS 2.json"
+    },
+    {
+      "teamName": "DEFI PIQUART & CO",
+      "path": "teams_results/DEFI PIQUART & CO.json"
+    },
+    {
+      "teamName": "ORPI SAINT-YVES",
+      "path": "teams_results/ORPI SAINT-YVES.json"
+    },
+    {
+      "teamName": "LES MONTAGNARDS",
+      "path": "teams_results/LES MONTAGNARDS.json"
+    },
+    {
+      "teamName": "LAGARDERE PARIS RACING",
+      "path": "teams_results/LAGARDERE PARIS RACING.json"
+    }
+  ],
+  "dateExport": "2023-06-09T18:52:05.290Z",
+  "exportDurationMs": 5883
+}
